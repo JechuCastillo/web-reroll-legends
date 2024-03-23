@@ -1,3 +1,3 @@
 <div align="center">
-    <a href="https://jechucastillo.github.io/web-reroll-legends/" color="Yellow"> WEB REROLL LEGENDS</a>
+    <a href="https://jechucastillo.github.io/web-reroll-legends/"> WEB REROLL LEGENDS</a>
 </div>
