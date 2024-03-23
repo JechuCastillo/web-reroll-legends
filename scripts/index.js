@@ -18,6 +18,7 @@ function onRequestHandler() {
     filtrarSoporte(arrayChampion);
     filtrarTops(arrayChampion);
     filtrarJunglas(arrayChampion);
+    // cambio
   }
 }
 const contenedor = document.querySelector('.contenedor');
