@@ -5,3 +5,4 @@
 ## Integrantes
 
 - Gonzalo Piacentini
+- Juan Pablo Jara
