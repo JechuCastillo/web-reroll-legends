@@ -6,15 +6,9 @@ function onRequestHandler() {
   if (this.readyState === 4 && this.status === 200) {
     const champion = JSON.parse(this.response);
     const arrayChampion = (Object.values(champion));
-    cantCampeones = arrayChampion.length;
     console.log(arrayChampion);
-    for (i = 0; i < cantCampeones; i++) {
-      let nombre = arrayChampion[i].id;
-      const imagen = document.createElement('img');
-      imagen.src = 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/'.concat(nombre).concat('_0.jpg');
-      imagen.classList.add('contenedor');
-      contenedor.appendChild(imagen);
-    }
+
+    mostrarCampeones(arrayChampion);
     filtrarSoporte(arrayChampion);
     filtrarTops(arrayChampion);
     filtrarJunglas(arrayChampion);
@@ -82,5 +76,17 @@ function filtrarAdcs(arrayChampion) {
     }
   }
   console.log(adcs);
+}
+
+function mostrarCampeones(arrayChampion) {
+  longitud = arrayChampion.length;
+  for (i = 0; i < longitud; i++) {
+    let nombre = arrayChampion[i].id;
+    const imagen = document.createElement('img');
+    imagen.src = 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/'.concat(nombre).concat('_0.jpg');
+    imagen.classList.add('contenedor');
+    contenedor.appendChild(imagen);
+  }
+
 }
 // }

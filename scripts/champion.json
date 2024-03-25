@@ -8,7 +8,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Ahri": {
         "id": "Ahri",
@@ -19,7 +20,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Akali": {
         "id": "Akali",
@@ -29,7 +31,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Akshan": {
         "id": "Akshan",
@@ -41,7 +44,8 @@
         "rol": [
             "mid",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Alistar": {
         "id": "Alistar",
@@ -52,7 +56,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Amumu": {
         "id": "Amumu",
@@ -63,7 +68,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Anivia": {
         "id": "Anivia",
@@ -74,7 +80,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Annie": {
         "id": "Annie",
@@ -85,7 +92,8 @@
         "rol": [
             "sup",
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Aphelios": {
         "id": "Aphelios",
@@ -95,7 +103,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Ashe": {
         "id": "Ashe",
@@ -107,7 +116,8 @@
         "rol": [
             "sup",
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "AurelionSol": {
         "id": "AurelionSol",
@@ -117,7 +127,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Azir": {
         "id": "Azir",
@@ -128,7 +139,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Bard": {
         "id": "Bard",
@@ -139,7 +151,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Belveth": {
         "id": "Belveth",
@@ -149,7 +162,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Blitzcrank": {
         "id": "Blitzcrank",
@@ -160,7 +174,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Brand": {
         "id": "Brand",
@@ -171,7 +186,8 @@
         "rol": [
             "mid",
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Braum": {
         "id": "Braum",
@@ -182,7 +198,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Briar": {
         "id": "Briar",
@@ -193,7 +210,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Caitlyn": {
         "id": "Caitlyn",
@@ -203,7 +221,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Camille": {
         "id": "Camille",
@@ -214,7 +233,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Cassiopeia": {
         "id": "Cassiopeia",
@@ -224,7 +244,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Chogath": {
         "id": "Chogath",
@@ -235,7 +256,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Corki": {
         "id": "Corki",
@@ -246,7 +268,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Darius": {
         "id": "Darius",
@@ -257,7 +280,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Diana": {
         "id": "Diana",
@@ -268,7 +292,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Draven": {
         "id": "Draven",
@@ -278,7 +303,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "DrMundo": {
         "id": "DrMundo",
@@ -288,7 +314,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Ekko": {
         "id": "Ekko",
@@ -299,7 +326,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Elise": {
         "id": "Elise",
@@ -310,7 +338,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Evelynn": {
         "id": "Evelynn",
@@ -321,7 +350,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Ezreal": {
         "id": "Ezreal",
@@ -332,7 +362,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Fiddlesticks": {
         "id": "Fiddlesticks",
@@ -343,7 +374,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Fiora": {
         "id": "Fiora",
@@ -354,7 +386,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Fizz": {
         "id": "Fizz",
@@ -365,7 +398,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Galio": {
         "id": "Galio",
@@ -376,7 +410,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Gangplank": {
         "id": "Gangplank",
@@ -386,7 +421,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Garen": {
         "id": "Garen",
@@ -397,7 +433,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Gnar": {
         "id": "Gnar",
@@ -408,7 +445,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Gragas": {
         "id": "Gragas",
@@ -420,7 +458,8 @@
         "rol": [
             "jungla",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Graves": {
         "id": "Graves",
@@ -430,7 +469,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Gwen": {
         "id": "Gwen",
@@ -441,7 +481,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Hecarim": {
         "id": "Hecarim",
@@ -452,7 +493,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Heimerdinger": {
         "id": "Heimerdinger",
@@ -462,7 +504,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Hwei": {
         "id": "Hwei",
@@ -472,7 +515,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Illaoi": {
         "id": "Illaoi",
@@ -483,7 +527,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Irelia": {
         "id": "Irelia",
@@ -494,7 +539,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Ivern": {
         "id": "Ivern",
@@ -506,7 +552,8 @@
         "rol": [
             "jungla",
             "sup"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Janna": {
         "id": "Janna",
@@ -517,7 +564,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "JarvanIV": {
         "id": "JarvanIV",
@@ -528,7 +576,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Jax": {
         "id": "Jax",
@@ -539,7 +588,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Jayce": {
         "id": "Jayce",
@@ -550,7 +600,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Jhin": {
         "id": "Jhin",
@@ -561,7 +612,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Jinx": {
         "id": "Jinx",
@@ -571,7 +623,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Kaisa": {
         "id": "Kaisa",
@@ -582,7 +635,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Kalista": {
         "id": "Kalista",
@@ -592,7 +646,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Karma": {
         "id": "Karma",
@@ -603,7 +658,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Karthus": {
         "id": "Karthus",
@@ -614,7 +670,8 @@
         "rol": [
             "jungla",
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Kassadin": {
         "id": "Kassadin",
@@ -625,7 +682,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Katarina": {
         "id": "Katarina",
@@ -636,7 +694,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Kayle": {
         "id": "Kayle",
@@ -647,7 +706,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "izquierda"
     },
     "Kayn": {
         "id": "Kayn",
@@ -658,7 +718,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Kennen": {
         "id": "Kennen",
@@ -669,7 +730,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Khazix": {
         "id": "Khazix",
@@ -679,7 +741,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Kindred": {
         "id": "Kindred",
@@ -690,7 +753,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Kled": {
         "id": "Kled",
@@ -701,7 +765,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "KogMaw": {
         "id": "KogMaw",
@@ -712,7 +777,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "KSante": {
         "id": "KSante",
@@ -723,7 +789,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Leblanc": {
         "id": "Leblanc",
@@ -734,7 +801,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "LeeSin": {
         "id": "LeeSin",
@@ -745,7 +813,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Leona": {
         "id": "Leona",
@@ -756,7 +825,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Lillia": {
         "id": "Lillia",
@@ -766,7 +836,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Lissandra": {
         "id": "Lissandra",
@@ -777,7 +848,8 @@
         "rol": [
             "top",
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Lucian": {
         "id": "Lucian",
@@ -788,7 +860,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Lulu": {
         "id": "Lulu",
@@ -799,7 +872,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Lux": {
         "id": "Lux",
@@ -811,7 +885,8 @@
         "rol": [
             "sup",
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Malphite": {
         "id": "Malphite",
@@ -824,7 +899,8 @@
             "sup",
             "mid",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Malzahar": {
         "id": "Malzahar",
@@ -835,7 +911,8 @@
         "rol": [
             "mid",
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Maokai": {
         "id": "Maokai",
@@ -848,7 +925,8 @@
             "jungla",
             "top",
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "MasterYi": {
         "id": "MasterYi",
@@ -859,7 +937,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Milio": {
         "id": "Milio",
@@ -869,7 +948,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "MissFortune": {
         "id": "MissFortune",
@@ -880,7 +960,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "MonkeyKing": {
         "id": "MonkeyKing",
@@ -892,7 +973,8 @@
         "rol": [
             "top",
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Mordekaiser": {
         "id": "Mordekaiser",
@@ -902,7 +984,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Morgana": {
         "id": "Morgana",
@@ -913,7 +996,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Naafiri": {
         "id": "Naafiri",
@@ -923,7 +1007,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Nami": {
         "id": "Nami",
@@ -934,7 +1019,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Nasus": {
         "id": "Nasus",
@@ -945,7 +1031,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Nautilus": {
         "id": "Nautilus",
@@ -956,7 +1043,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Neeko": {
         "id": "Neeko",
@@ -968,7 +1056,8 @@
         "rol": [
             "sup",
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Nidalee": {
         "id": "Nidalee",
@@ -979,7 +1068,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Nilah": {
         "id": "Nilah",
@@ -990,7 +1080,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Nocturne": {
         "id": "Nocturne",
@@ -1001,7 +1092,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Nunu": {
         "id": "Nunu",
@@ -1012,7 +1104,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Olaf": {
         "id": "Olaf",
@@ -1024,7 +1117,8 @@
         "rol": [
             "jungla",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Orianna": {
         "id": "Orianna",
@@ -1035,7 +1129,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Ornn": {
         "id": "Ornn",
@@ -1046,7 +1141,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Pantheon": {
         "id": "Pantheon",
@@ -1057,7 +1153,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Poppy": {
         "id": "Poppy",
@@ -1069,7 +1166,8 @@
         "rol": [
             "top",
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Pyke": {
         "id": "Pyke",
@@ -1080,7 +1178,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Qiyana": {
         "id": "Qiyana",
@@ -1092,7 +1191,8 @@
         "rol": [
             "mid",
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Quinn": {
         "id": "Quinn",
@@ -1103,7 +1203,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Rakan": {
         "id": "Rakan",
@@ -1114,7 +1215,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Rammus": {
         "id": "Rammus",
@@ -1125,7 +1227,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "RekSai": {
         "id": "RekSai",
@@ -1135,7 +1238,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Rell": {
         "id": "Rell",
@@ -1147,7 +1251,8 @@
         "rol": [
             "sup",
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "RenataGlasc": {
         "id": "Renata",
@@ -1158,7 +1263,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Renekton": {
         "id": "Renekton",
@@ -1169,7 +1275,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Rengar": {
         "id": "Rengar",
@@ -1180,7 +1287,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Riven": {
         "id": "Riven",
@@ -1191,7 +1299,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Rumble": {
         "id": "Rumble",
@@ -1202,7 +1311,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Ryze": {
         "id": "Ryze",
@@ -1213,7 +1323,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Samira": {
         "id": "Samira",
@@ -1224,7 +1335,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Sejuani": {
         "id": "Sejuani",
@@ -1235,7 +1347,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Senna": {
         "id": "Senna",
@@ -1247,7 +1360,8 @@
         "rol": [
             "sup",
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Seraphine": {
         "id": "Seraphine",
@@ -1258,7 +1372,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Sett": {
         "id": "Sett",
@@ -1269,7 +1384,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Shaco": {
         "id": "Shaco",
@@ -1279,7 +1395,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Shen": {
         "id": "Shen",
@@ -1290,7 +1407,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Shyvana": {
         "id": "Shyvana",
@@ -1302,7 +1420,8 @@
         "rol": [
             "top",
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Singed": {
         "id": "Singed",
@@ -1313,7 +1432,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Sion": {
         "id": "Sion",
@@ -1324,7 +1444,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Sivir": {
         "id": "Sivir",
@@ -1334,7 +1455,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Skarner": {
         "id": "Skarner",
@@ -1345,7 +1467,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Smolder": {
         "id": "Smolder",
@@ -1355,7 +1478,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Sona": {
         "id": "Sona",
@@ -1366,7 +1490,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Soraka": {
         "id": "Soraka",
@@ -1377,7 +1502,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Swain": {
         "id": "Swain",
@@ -1389,7 +1515,8 @@
         "rol": [
             "mid",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Sylas": {
         "id": "Sylas",
@@ -1400,7 +1527,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Syndra": {
         "id": "Syndra",
@@ -1410,7 +1538,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "TahmKench": {
         "id": "TahmKench",
@@ -1422,7 +1551,8 @@
         "rol": [
             "sup",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Taliyah": {
         "id": "Taliyah",
@@ -1432,7 +1562,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Talon": {
         "id": "Talon",
@@ -1442,7 +1573,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Taric": {
         "id": "Taric",
@@ -1453,7 +1585,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Teemo": {
         "id": "Teemo",
@@ -1464,7 +1597,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Thresh": {
         "id": "Thresh",
@@ -1475,7 +1609,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Tristana": {
         "id": "Tristana",
@@ -1486,7 +1621,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Trundle": {
         "id": "Trundle",
@@ -1498,7 +1634,8 @@
         "rol": [
             "jungla",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Tryndamere": {
         "id": "Tryndamere",
@@ -1510,7 +1647,8 @@
         "rol": [
             "jungla",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "TwistedFate": {
         "id": "TwistedFate",
@@ -1521,7 +1659,8 @@
         "rol": [
             "mid",
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Twitch": {
         "id": "Twitch",
@@ -1533,7 +1672,8 @@
         "rol": [
             "adc",
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Udyr": {
         "id": "Udyr",
@@ -1544,7 +1684,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Urgot": {
         "id": "Urgot",
@@ -1555,7 +1696,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Varus": {
         "id": "Varus",
@@ -1566,7 +1708,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Vayne": {
         "id": "Vayne",
@@ -1577,7 +1720,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Veigar": {
         "id": "Veigar",
@@ -1587,7 +1731,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Velkoz": {
         "id": "Velkoz",
@@ -1597,7 +1742,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Vex": {
         "id": "Vex",
@@ -1607,7 +1753,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Vi": {
         "id": "Vi",
@@ -1618,7 +1765,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Viego": {
         "id": "Viego",
@@ -1629,7 +1777,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Viktor": {
         "id": "Viktor",
@@ -1639,7 +1788,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Vladimir": {
         "id": "Vladimir",
@@ -1650,7 +1800,8 @@
         "rol": [
             "mid",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Volibear": {
         "id": "Volibear",
@@ -1662,7 +1813,8 @@
         "rol": [
             "top",
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Warwick": {
         "id": "Warwick",
@@ -1673,7 +1825,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Xayah": {
         "id": "Xayah",
@@ -1684,7 +1837,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Xerath": {
         "id": "Xerath",
@@ -1694,7 +1848,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "XinZhao": {
         "id": "XinZhao",
@@ -1705,7 +1860,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Yasuo": {
         "id": "Yasuo",
@@ -1717,7 +1873,8 @@
         "rol": [
             "mid",
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Yone": {
         "id": "Yone",
@@ -1729,7 +1886,8 @@
         "rol": [
             "top",
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Yorick": {
         "id": "Yorick",
@@ -1740,7 +1898,8 @@
         ],
         "rol": [
             "top"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Yuumi": {
         "id": "Yuumi",
@@ -1751,7 +1910,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Zac": {
         "id": "Zac",
@@ -1762,7 +1922,8 @@
         ],
         "rol": [
             "jungla"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Zed": {
         "id": "Zed",
@@ -1772,7 +1933,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Zeri": {
         "id": "Zeri",
@@ -1782,7 +1944,8 @@
         ],
         "rol": [
             "adc"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Ziggs": {
         "id": "Ziggs",
@@ -1792,7 +1955,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "derecha"
     },
     "Zilean": {
         "id": "Zilean",
@@ -1803,7 +1967,8 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Zoe": {
         "id": "Zoe",
@@ -1813,7 +1978,8 @@
         ],
         "rol": [
             "mid"
-        ]
+        ],
+        "alineacion": "centro"
     },
     "Zyra": {
         "id": "Zyra",
@@ -1824,6 +1990,7 @@
         ],
         "rol": [
             "sup"
-        ]
+        ],
+        "alineacion": "derecha"
     }
 }

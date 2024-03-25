@@ -1,0 +1,7 @@
+# PROYECTO RERROLL LEGENDS #
+
+Tareas:
+
+-Interfaz: HTML y CSS
+
+-Controlador
