@@ -1,1831 +1,1829 @@
 {
-    "data": {
-        "Aatrox": {
-            "id": "Aatrox",
-            "name": "Aatrox",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Ahri": {
-            "id": "Ahri",
-            "name": "Ahri",
-            "tags": [
-                "Mage",
-                "Assassin"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Akali": {
-            "id": "Akali",
-            "name": "Akali",
-            "tags": [
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Akshan": {
-            "id": "Akshan",
-            "name": "Akshan",
-            "tags": [
-                "Marksman",
-                "Assassin"
-            ],
-            "rol": [
-                "mid",
-                "top"
-            ]
-        },
-        "Alistar": {
-            "id": "Alistar",
-            "name": "Alistar",
-            "tags": [
-                "Tank",
-                "Support"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Amumu": {
-            "id": "Amumu",
-            "name": "Amumu",
-            "tags": [
-                "Tank",
-                "Mage"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Anivia": {
-            "id": "Anivia",
-            "name": "Anivia",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Annie": {
-            "id": "Annie",
-            "name": "Annie",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "sup",
-                "mid"
-            ]
-        },
-        "Aphelios": {
-            "id": "Aphelios",
-            "name": "Aphelios",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Ashe": {
-            "id": "Ashe",
-            "name": "Ashe",
-            "tags": [
-                "Marksman",
-                "Support"
-            ],
-            "rol": [
-                "sup",
-                "adc"
-            ]
-        },
-        "AurelionSol": {
-            "id": "AurelionSol",
-            "name": "Aurelion Sol",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Azir": {
-            "id": "Azir",
-            "name": "Azir",
-            "tags": [
-                "Mage",
-                "Marksman"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Bard": {
-            "id": "Bard",
-            "name": "Bard",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Belveth": {
-            "id": "Belveth",
-            "name": "Bel'Veth",
-            "tags": [
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Blitzcrank": {
-            "id": "Blitzcrank",
-            "name": "Blitzcrank",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Brand": {
-            "id": "Brand",
-            "name": "Brand",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid",
-                "sup"
-            ]
-        },
-        "Braum": {
-            "id": "Braum",
-            "name": "Braum",
-            "tags": [
-                "Support",
-                "Tank"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Briar": {
-            "id": "Briar",
-            "name": "Briar",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Caitlyn": {
-            "id": "Caitlyn",
-            "name": "Caitlyn",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Camille": {
-            "id": "Camille",
-            "name": "Camille",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Cassiopeia": {
-            "id": "Cassiopeia",
-            "name": "Cassiopeia",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Chogath": {
-            "id": "Chogath",
-            "name": "Cho'Gath",
-            "tags": [
-                "Tank",
-                "Mage"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Corki": {
-            "id": "Corki",
-            "name": "Corki",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Darius": {
-            "id": "Darius",
-            "name": "Darius",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Diana": {
-            "id": "Diana",
-            "name": "Diana",
-            "tags": [
-                "Fighter",
-                "Mage"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Draven": {
-            "id": "Draven",
-            "name": "Draven",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "DrMundo": {
-            "id": "DrMundo",
-            "name": "Dr. Mundo",
-            "tags": [
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Ekko": {
-            "id": "Ekko",
-            "name": "Ekko",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Elise": {
-            "id": "Elise",
-            "name": "Elise",
-            "tags": [
-                "Mage",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Evelynn": {
-            "id": "Evelynn",
-            "name": "Evelynn",
-            "tags": [
-                "Assassin",
-                "Mage"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Ezreal": {
-            "id": "Ezreal",
-            "name": "Ezreal",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Fiddlesticks": {
-            "id": "Fiddlesticks",
-            "name": "Fiddlesticks",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Fiora": {
-            "id": "Fiora",
-            "name": "Fiora",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Fizz": {
-            "id": "Fizz",
-            "name": "Fizz",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Galio": {
-            "id": "Galio",
-            "name": "Galio",
-            "tags": [
-                "Tank",
-                "Mage"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Gangplank": {
-            "id": "Gangplank",
-            "name": "Gangplank",
-            "tags": [
-                "Fighter"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Garen": {
-            "id": "Garen",
-            "name": "Garen",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Gnar": {
-            "id": "Gnar",
-            "name": "Gnar",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Gragas": {
-            "id": "Gragas",
-            "name": "Gragas",
-            "tags": [
-                "Fighter",
-                "Mage"
-            ],
-            "rol": [
-                "jungla",
-                "top"
-            ]
-        },
-        "Graves": {
-            "id": "Graves",
-            "name": "Graves",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Gwen": {
-            "id": "Gwen",
-            "name": "Gwen",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Hecarim": {
-            "id": "Hecarim",
-            "name": "Hecarim",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Heimerdinger": {
-            "id": "Heimerdinger",
-            "name": "Heimerdinger",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Hwei": {
-            "id": "Hwei",
-            "name": "Hwei",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Illaoi": {
-            "id": "Illaoi",
-            "name": "Illaoi",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Irelia": {
-            "id": "Irelia",
-            "name": "Irelia",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Ivern": {
-            "id": "Ivern",
-            "name": "Ivern",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "jungla",
-                "sup"
-            ]
-        },
-        "Janna": {
-            "id": "Janna",
-            "name": "Janna",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "JarvanIV": {
-            "id": "JarvanIV",
-            "name": "Jarvan IV",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Jax": {
-            "id": "Jax",
-            "name": "Jax",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Jayce": {
-            "id": "Jayce",
-            "name": "Jayce",
-            "tags": [
-                "Fighter",
-                "Marksman"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Jhin": {
-            "id": "Jhin",
-            "name": "Jhin",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Jinx": {
-            "id": "Jinx",
-            "name": "Jinx",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Kaisa": {
-            "id": "Kaisa",
-            "name": "Kai'Sa",
-            "tags": [
-                "Marksman",
-                "Assassin"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Kalista": {
-            "id": "Kalista",
-            "name": "Kalista",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Karma": {
-            "id": "Karma",
-            "name": "Karma",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Karthus": {
-            "id": "Karthus",
-            "name": "Karthus",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "jungla",
-                "mid"
-            ]
-        },
-        "Kassadin": {
-            "id": "Kassadin",
-            "name": "Kassadin",
-            "tags": [
-                "Assassin",
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Katarina": {
-            "id": "Katarina",
-            "name": "Katarina",
-            "tags": [
-                "Assassin",
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Kayle": {
-            "id": "Kayle",
-            "name": "Kayle",
-            "tags": [
-                "Fighter",
-                "Support"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Kayn": {
-            "id": "Kayn",
-            "name": "Kayn",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Kennen": {
-            "id": "Kennen",
-            "name": "Kennen",
-            "tags": [
-                "Mage",
-                "Marksman"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Khazix": {
-            "id": "Khazix",
-            "name": "Kha'Zix",
-            "tags": [
-                "Assassin"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Kindred": {
-            "id": "Kindred",
-            "name": "Kindred",
-            "tags": [
-                "Marksman",
-                "Assassin"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Kled": {
-            "id": "Kled",
-            "name": "Kled",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "KogMaw": {
-            "id": "KogMaw",
-            "name": "Kog'Maw",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "KSante": {
-            "id": "KSante",
-            "name": "K'Sante",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Leblanc": {
-            "id": "Leblanc",
-            "name": "LeBlanc",
-            "tags": [
-                "Mage",
-                "Assassin"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "LeeSin": {
-            "id": "LeeSin",
-            "name": "Lee Sin",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Leona": {
-            "id": "Leona",
-            "name": "Leona",
-            "tags": [
-                "Tank",
-                "Support"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Lillia": {
-            "id": "Lillia",
-            "name": "Lillia",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Lissandra": {
-            "id": "Lissandra",
-            "name": "Lissandra",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "top",
-                "mid"
-            ]
-        },
-        "Lucian": {
-            "id": "Lucian",
-            "name": "Lucian",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Lulu": {
-            "id": "Lulu",
-            "name": "Lulu",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Lux": {
-            "id": "Lux",
-            "name": "Lux",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "sup",
-                "mid"
-            ]
-        },
-        "Malphite": {
-            "id": "Malphite",
-            "name": "Malphite",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "sup",
-                "mid",
-                "top"
-            ]
-        },
-        "Malzahar": {
-            "id": "Malzahar",
-            "name": "Malzahar",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid",
-                "sup"
-            ]
-        },
-        "Maokai": {
-            "id": "Maokai",
-            "name": "Maokai",
-            "tags": [
-                "Tank",
-                "Mage"
-            ],
-            "rol": [
-                "jungla",
-                "top",
-                "mid"
-            ]
-        },
-        "MasterYi": {
-            "id": "MasterYi",
-            "name": "Master Yi",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Milio": {
-            "id": "Milio",
-            "name": "Milio",
-            "tags": [
-                "Support"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "MissFortune": {
-            "id": "MissFortune",
-            "name": "Miss Fortune",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "MonkeyKing": {
-            "id": "MonkeyKing",
-            "name": "Wukong",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top",
-                "jungla"
-            ]
-        },
-        "Mordekaiser": {
-            "id": "Mordekaiser",
-            "name": "Mordekaiser",
-            "tags": [
-                "Fighter"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Morgana": {
-            "id": "Morgana",
-            "name": "Morgana",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Naafiri": {
-            "id": "Naafiri",
-            "name": "Naafiri",
-            "tags": [
-                "Assassin"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Nami": {
-            "id": "Nami",
-            "name": "Nami",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Nasus": {
-            "id": "Nasus",
-            "name": "Nasus",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Nautilus": {
-            "id": "Nautilus",
-            "name": "Nautilus",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Neeko": {
-            "id": "Neeko",
-            "name": "Neeko",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "sup",
-                "mid"
-            ]
-        },
-        "Nidalee": {
-            "id": "Nidalee",
-            "name": "Nidalee",
-            "tags": [
-                "Assassin",
-                "Mage"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Nilah": {
-            "id": "Nilah",
-            "name": "Nilah",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Nocturne": {
-            "id": "Nocturne",
-            "name": "Nocturne",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Nunu": {
-            "id": "Nunu",
-            "name": "Nunu & Willump",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Olaf": {
-            "id": "Olaf",
-            "name": "Olaf",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "jungla",
-                "top"
-            ]
-        },
-        "Orianna": {
-            "id": "Orianna",
-            "name": "Orianna",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Ornn": {
-            "id": "Ornn",
-            "name": "Ornn",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Pantheon": {
-            "id": "Pantheon",
-            "name": "Pantheon",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Poppy": {
-            "id": "Poppy",
-            "name": "Poppy",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "top",
-                "jungla"
-            ]
-        },
-        "Pyke": {
-            "id": "Pyke",
-            "name": "Pyke",
-            "tags": [
-                "Support",
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Qiyana": {
-            "id": "Qiyana",
-            "name": "Qiyana",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "mid",
-                "jungla"
-            ]
-        },
-        "Quinn": {
-            "id": "Quinn",
-            "name": "Quinn",
-            "tags": [
-                "Marksman",
-                "Fighter"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Rakan": {
-            "id": "Rakan",
-            "name": "Rakan",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Rammus": {
-            "id": "Rammus",
-            "name": "Rammus",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "RekSai": {
-            "id": "RekSai",
-            "name": "Rek'Sai",
-            "tags": [
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Rell": {
-            "id": "Rell",
-            "name": "Rell",
-            "tags": [
-                "Tank",
-                "Support"
-            ],
-            "rol": [
-                "sup",
-                "jungla"
-            ]
-        },
-        "RenataGlasc": {
-            "id": "Renata",
-            "name": "Renata Glasc",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Renekton": {
-            "id": "Renekton",
-            "name": "Renekton",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Rengar": {
-            "id": "Rengar",
-            "name": "Rengar",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Riven": {
-            "id": "Riven",
-            "name": "Riven",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Rumble": {
-            "id": "Rumble",
-            "name": "Rumble",
-            "tags": [
-                "Fighter",
-                "Mage"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Ryze": {
-            "id": "Ryze",
-            "name": "Ryze",
-            "tags": [
-                "Mage",
-                "Fighter"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Samira": {
-            "id": "Samira",
-            "name": "Samira",
-            "tags": [
-                "Marksman",
-                "Assassin"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Sejuani": {
-            "id": "Sejuani",
-            "name": "Sejuani",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Senna": {
-            "id": "Senna",
-            "name": "Senna",
-            "tags": [
-                "Marksman",
-                "Support"
-            ],
-            "rol": [
-                "sup",
-                "adc"
-            ]
-        },
-        "Seraphine": {
-            "id": "Seraphine",
-            "name": "Seraphine",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Sett": {
-            "id": "Sett",
-            "name": "Sett",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Shaco": {
-            "id": "Shaco",
-            "name": "Shaco",
-            "tags": [
-                "Assassin"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Shen": {
-            "id": "Shen",
-            "name": "Shen",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Shyvana": {
-            "id": "Shyvana",
-            "name": "Shyvana",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top",
-                "jungla"
-            ]
-        },
-        "Singed": {
-            "id": "Singed",
-            "name": "Singed",
-            "tags": [
-                "Tank",
-                "Mage"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Sion": {
-            "id": "Sion",
-            "name": "Sion",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Sivir": {
-            "id": "Sivir",
-            "name": "Sivir",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Skarner": {
-            "id": "Skarner",
-            "name": "Skarner",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Smolder": {
-            "id": "Smolder",
-            "name": "Smolder",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Sona": {
-            "id": "Sona",
-            "name": "Sona",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Soraka": {
-            "id": "Soraka",
-            "name": "Soraka",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Swain": {
-            "id": "Swain",
-            "name": "Swain",
-            "tags": [
-                "Mage",
-                "Fighter"
-            ],
-            "rol": [
-                "mid",
-                "top"
-            ]
-        },
-        "Sylas": {
-            "id": "Sylas",
-            "name": "Sylas",
-            "tags": [
-                "Mage",
-                "Assassin"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Syndra": {
-            "id": "Syndra",
-            "name": "Syndra",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "TahmKench": {
-            "id": "TahmKench",
-            "name": "Tahm Kench",
-            "tags": [
-                "Support",
-                "Tank"
-            ],
-            "rol": [
-                "sup",
-                "top"
-            ]
-        },
-        "Taliyah": {
-            "id": "Taliyah",
-            "name": "Taliyah",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Talon": {
-            "id": "Talon",
-            "name": "Talon",
-            "tags": [
-                "Assassin"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Taric": {
-            "id": "Taric",
-            "name": "Taric",
-            "tags": [
-                "Support",
-                "Fighter"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Teemo": {
-            "id": "Teemo",
-            "name": "Teemo",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Thresh": {
-            "id": "Thresh",
-            "name": "Thresh",
-            "tags": [
-                "Support",
-                "Fighter"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Tristana": {
-            "id": "Tristana",
-            "name": "Tristana",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Trundle": {
-            "id": "Trundle",
-            "name": "Trundle",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "jungla",
-                "top"
-            ]
-        },
-        "Tryndamere": {
-            "id": "Tryndamere",
-            "name": "Tryndamere",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "jungla",
-                "top"
-            ]
-        },
-        "TwistedFate": {
-            "id": "TwistedFate",
-            "name": "Twisted Fate",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid",
-                "adc"
-            ]
-        },
-        "Twitch": {
-            "id": "Twitch",
-            "name": "Twitch",
-            "tags": [
-                "Marksman",
-                "Assassin"
-            ],
-            "rol": [
-                "adc",
-                "jungla"
-            ]
-        },
-        "Udyr": {
-            "id": "Udyr",
-            "name": "Udyr",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Urgot": {
-            "id": "Urgot",
-            "name": "Urgot",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Varus": {
-            "id": "Varus",
-            "name": "Varus",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Vayne": {
-            "id": "Vayne",
-            "name": "Vayne",
-            "tags": [
-                "Marksman",
-                "Assassin"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Veigar": {
-            "id": "Veigar",
-            "name": "Veigar",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Velkoz": {
-            "id": "Velkoz",
-            "name": "Vel'Koz",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Vex": {
-            "id": "Vex",
-            "name": "Vex",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Vi": {
-            "id": "Vi",
-            "name": "Vi",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Viego": {
-            "id": "Viego",
-            "name": "Viego",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Viktor": {
-            "id": "Viktor",
-            "name": "Viktor",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Vladimir": {
-            "id": "Vladimir",
-            "name": "Vladimir",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid",
-                "top"
-            ]
-        },
-        "Volibear": {
-            "id": "Volibear",
-            "name": "Volibear",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top",
-                "jungla"
-            ]
-        },
-        "Warwick": {
-            "id": "Warwick",
-            "name": "Warwick",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Xayah": {
-            "id": "Xayah",
-            "name": "Xayah",
-            "tags": [
-                "Marksman",
-                "Mage"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Xerath": {
-            "id": "Xerath",
-            "name": "Xerath",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "XinZhao": {
-            "id": "XinZhao",
-            "name": "Xin Zhao",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Yasuo": {
-            "id": "Yasuo",
-            "name": "Yasuo",
-            "tags": [
-                "Fighter",
-                "Assassin"
-            ],
-            "rol": [
-                "mid",
-                "top"
-            ]
-        },
-        "Yone": {
-            "id": "Yone",
-            "name": "Yone",
-            "tags": [
-                "Assassin",
-                "Fighter"
-            ],
-            "rol": [
-                "top",
-                "mid"
-            ]
-        },
-        "Yorick": {
-            "id": "Yorick",
-            "name": "Yorick",
-            "tags": [
-                "Fighter",
-                "Tank"
-            ],
-            "rol": [
-                "top"
-            ]
-        },
-        "Yuumi": {
-            "id": "Yuumi",
-            "name": "Yuumi",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Zac": {
-            "id": "Zac",
-            "name": "Zac",
-            "tags": [
-                "Tank",
-                "Fighter"
-            ],
-            "rol": [
-                "jungla"
-            ]
-        },
-        "Zed": {
-            "id": "Zed",
-            "name": "Zed",
-            "tags": [
-                "Assassin"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Zeri": {
-            "id": "Zeri",
-            "name": "Zeri",
-            "tags": [
-                "Marksman"
-            ],
-            "rol": [
-                "adc"
-            ]
-        },
-        "Ziggs": {
-            "id": "Ziggs",
-            "name": "Ziggs",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Zilean": {
-            "id": "Zilean",
-            "name": "Zilean",
-            "tags": [
-                "Support",
-                "Mage"
-            ],
-            "rol": [
-                "sup"
-            ]
-        },
-        "Zoe": {
-            "id": "Zoe",
-            "name": "Zoe",
-            "tags": [
-                "Mage"
-            ],
-            "rol": [
-                "mid"
-            ]
-        },
-        "Zyra": {
-            "id": "Zyra",
-            "name": "Zyra",
-            "tags": [
-                "Mage",
-                "Support"
-            ],
-            "rol": [
-                "sup"
-            ]
-        }
+    "Aatrox": {
+        "id": "Aatrox",
+        "name": "Aatrox",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Ahri": {
+        "id": "Ahri",
+        "name": "Ahri",
+        "tags": [
+            "Mage",
+            "Assassin"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Akali": {
+        "id": "Akali",
+        "name": "Akali",
+        "tags": [
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Akshan": {
+        "id": "Akshan",
+        "name": "Akshan",
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "rol": [
+            "mid",
+            "top"
+        ]
+    },
+    "Alistar": {
+        "id": "Alistar",
+        "name": "Alistar",
+        "tags": [
+            "Tank",
+            "Support"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Amumu": {
+        "id": "Amumu",
+        "name": "Amumu",
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Anivia": {
+        "id": "Anivia",
+        "name": "Anivia",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Annie": {
+        "id": "Annie",
+        "name": "Annie",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "sup",
+            "mid"
+        ]
+    },
+    "Aphelios": {
+        "id": "Aphelios",
+        "name": "Aphelios",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Ashe": {
+        "id": "Ashe",
+        "name": "Ashe",
+        "tags": [
+            "Marksman",
+            "Support"
+        ],
+        "rol": [
+            "sup",
+            "adc"
+        ]
+    },
+    "AurelionSol": {
+        "id": "AurelionSol",
+        "name": "Aurelion Sol",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Azir": {
+        "id": "Azir",
+        "name": "Azir",
+        "tags": [
+            "Mage",
+            "Marksman"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Bard": {
+        "id": "Bard",
+        "name": "Bard",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Belveth": {
+        "id": "Belveth",
+        "name": "Bel'Veth",
+        "tags": [
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Blitzcrank": {
+        "id": "Blitzcrank",
+        "name": "Blitzcrank",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Brand": {
+        "id": "Brand",
+        "name": "Brand",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid",
+            "sup"
+        ]
+    },
+    "Braum": {
+        "id": "Braum",
+        "name": "Braum",
+        "tags": [
+            "Support",
+            "Tank"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Briar": {
+        "id": "Briar",
+        "name": "Briar",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Caitlyn": {
+        "id": "Caitlyn",
+        "name": "Caitlyn",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Camille": {
+        "id": "Camille",
+        "name": "Camille",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Cassiopeia": {
+        "id": "Cassiopeia",
+        "name": "Cassiopeia",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Chogath": {
+        "id": "Chogath",
+        "name": "Cho'Gath",
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Corki": {
+        "id": "Corki",
+        "name": "Corki",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Darius": {
+        "id": "Darius",
+        "name": "Darius",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Diana": {
+        "id": "Diana",
+        "name": "Diana",
+        "tags": [
+            "Fighter",
+            "Mage"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Draven": {
+        "id": "Draven",
+        "name": "Draven",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "DrMundo": {
+        "id": "DrMundo",
+        "name": "Dr. Mundo",
+        "tags": [
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Ekko": {
+        "id": "Ekko",
+        "name": "Ekko",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Elise": {
+        "id": "Elise",
+        "name": "Elise",
+        "tags": [
+            "Mage",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Evelynn": {
+        "id": "Evelynn",
+        "name": "Evelynn",
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Ezreal": {
+        "id": "Ezreal",
+        "name": "Ezreal",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Fiddlesticks": {
+        "id": "Fiddlesticks",
+        "name": "Fiddlesticks",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Fiora": {
+        "id": "Fiora",
+        "name": "Fiora",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Fizz": {
+        "id": "Fizz",
+        "name": "Fizz",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Galio": {
+        "id": "Galio",
+        "name": "Galio",
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Gangplank": {
+        "id": "Gangplank",
+        "name": "Gangplank",
+        "tags": [
+            "Fighter"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Garen": {
+        "id": "Garen",
+        "name": "Garen",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Gnar": {
+        "id": "Gnar",
+        "name": "Gnar",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Gragas": {
+        "id": "Gragas",
+        "name": "Gragas",
+        "tags": [
+            "Fighter",
+            "Mage"
+        ],
+        "rol": [
+            "jungla",
+            "top"
+        ]
+    },
+    "Graves": {
+        "id": "Graves",
+        "name": "Graves",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Gwen": {
+        "id": "Gwen",
+        "name": "Gwen",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Hecarim": {
+        "id": "Hecarim",
+        "name": "Hecarim",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Heimerdinger": {
+        "id": "Heimerdinger",
+        "name": "Heimerdinger",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Hwei": {
+        "id": "Hwei",
+        "name": "Hwei",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Illaoi": {
+        "id": "Illaoi",
+        "name": "Illaoi",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Irelia": {
+        "id": "Irelia",
+        "name": "Irelia",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Ivern": {
+        "id": "Ivern",
+        "name": "Ivern",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "jungla",
+            "sup"
+        ]
+    },
+    "Janna": {
+        "id": "Janna",
+        "name": "Janna",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "JarvanIV": {
+        "id": "JarvanIV",
+        "name": "Jarvan IV",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Jax": {
+        "id": "Jax",
+        "name": "Jax",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Jayce": {
+        "id": "Jayce",
+        "name": "Jayce",
+        "tags": [
+            "Fighter",
+            "Marksman"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Jhin": {
+        "id": "Jhin",
+        "name": "Jhin",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Jinx": {
+        "id": "Jinx",
+        "name": "Jinx",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Kaisa": {
+        "id": "Kaisa",
+        "name": "Kai'Sa",
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Kalista": {
+        "id": "Kalista",
+        "name": "Kalista",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Karma": {
+        "id": "Karma",
+        "name": "Karma",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Karthus": {
+        "id": "Karthus",
+        "name": "Karthus",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "jungla",
+            "mid"
+        ]
+    },
+    "Kassadin": {
+        "id": "Kassadin",
+        "name": "Kassadin",
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Katarina": {
+        "id": "Katarina",
+        "name": "Katarina",
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Kayle": {
+        "id": "Kayle",
+        "name": "Kayle",
+        "tags": [
+            "Fighter",
+            "Support"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Kayn": {
+        "id": "Kayn",
+        "name": "Kayn",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Kennen": {
+        "id": "Kennen",
+        "name": "Kennen",
+        "tags": [
+            "Mage",
+            "Marksman"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Khazix": {
+        "id": "Khazix",
+        "name": "Kha'Zix",
+        "tags": [
+            "Assassin"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Kindred": {
+        "id": "Kindred",
+        "name": "Kindred",
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Kled": {
+        "id": "Kled",
+        "name": "Kled",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "KogMaw": {
+        "id": "KogMaw",
+        "name": "Kog'Maw",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "KSante": {
+        "id": "KSante",
+        "name": "K'Sante",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Leblanc": {
+        "id": "Leblanc",
+        "name": "LeBlanc",
+        "tags": [
+            "Mage",
+            "Assassin"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "LeeSin": {
+        "id": "LeeSin",
+        "name": "Lee Sin",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Leona": {
+        "id": "Leona",
+        "name": "Leona",
+        "tags": [
+            "Tank",
+            "Support"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Lillia": {
+        "id": "Lillia",
+        "name": "Lillia",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Lissandra": {
+        "id": "Lissandra",
+        "name": "Lissandra",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "top",
+            "mid"
+        ]
+    },
+    "Lucian": {
+        "id": "Lucian",
+        "name": "Lucian",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Lulu": {
+        "id": "Lulu",
+        "name": "Lulu",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Lux": {
+        "id": "Lux",
+        "name": "Lux",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "sup",
+            "mid"
+        ]
+    },
+    "Malphite": {
+        "id": "Malphite",
+        "name": "Malphite",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "sup",
+            "mid",
+            "top"
+        ]
+    },
+    "Malzahar": {
+        "id": "Malzahar",
+        "name": "Malzahar",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid",
+            "sup"
+        ]
+    },
+    "Maokai": {
+        "id": "Maokai",
+        "name": "Maokai",
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "rol": [
+            "jungla",
+            "top",
+            "mid"
+        ]
+    },
+    "MasterYi": {
+        "id": "MasterYi",
+        "name": "Master Yi",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Milio": {
+        "id": "Milio",
+        "name": "Milio",
+        "tags": [
+            "Support"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "MissFortune": {
+        "id": "MissFortune",
+        "name": "Miss Fortune",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "MonkeyKing": {
+        "id": "MonkeyKing",
+        "name": "Wukong",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top",
+            "jungla"
+        ]
+    },
+    "Mordekaiser": {
+        "id": "Mordekaiser",
+        "name": "Mordekaiser",
+        "tags": [
+            "Fighter"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Morgana": {
+        "id": "Morgana",
+        "name": "Morgana",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Naafiri": {
+        "id": "Naafiri",
+        "name": "Naafiri",
+        "tags": [
+            "Assassin"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Nami": {
+        "id": "Nami",
+        "name": "Nami",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Nasus": {
+        "id": "Nasus",
+        "name": "Nasus",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Nautilus": {
+        "id": "Nautilus",
+        "name": "Nautilus",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Neeko": {
+        "id": "Neeko",
+        "name": "Neeko",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "sup",
+            "mid"
+        ]
+    },
+    "Nidalee": {
+        "id": "Nidalee",
+        "name": "Nidalee",
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Nilah": {
+        "id": "Nilah",
+        "name": "Nilah",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Nocturne": {
+        "id": "Nocturne",
+        "name": "Nocturne",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Nunu": {
+        "id": "Nunu",
+        "name": "Nunu & Willump",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Olaf": {
+        "id": "Olaf",
+        "name": "Olaf",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "jungla",
+            "top"
+        ]
+    },
+    "Orianna": {
+        "id": "Orianna",
+        "name": "Orianna",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Ornn": {
+        "id": "Ornn",
+        "name": "Ornn",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Pantheon": {
+        "id": "Pantheon",
+        "name": "Pantheon",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Poppy": {
+        "id": "Poppy",
+        "name": "Poppy",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "top",
+            "jungla"
+        ]
+    },
+    "Pyke": {
+        "id": "Pyke",
+        "name": "Pyke",
+        "tags": [
+            "Support",
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Qiyana": {
+        "id": "Qiyana",
+        "name": "Qiyana",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "mid",
+            "jungla"
+        ]
+    },
+    "Quinn": {
+        "id": "Quinn",
+        "name": "Quinn",
+        "tags": [
+            "Marksman",
+            "Fighter"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Rakan": {
+        "id": "Rakan",
+        "name": "Rakan",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Rammus": {
+        "id": "Rammus",
+        "name": "Rammus",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "RekSai": {
+        "id": "RekSai",
+        "name": "Rek'Sai",
+        "tags": [
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Rell": {
+        "id": "Rell",
+        "name": "Rell",
+        "tags": [
+            "Tank",
+            "Support"
+        ],
+        "rol": [
+            "sup",
+            "jungla"
+        ]
+    },
+    "RenataGlasc": {
+        "id": "Renata",
+        "name": "Renata Glasc",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Renekton": {
+        "id": "Renekton",
+        "name": "Renekton",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Rengar": {
+        "id": "Rengar",
+        "name": "Rengar",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Riven": {
+        "id": "Riven",
+        "name": "Riven",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Rumble": {
+        "id": "Rumble",
+        "name": "Rumble",
+        "tags": [
+            "Fighter",
+            "Mage"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Ryze": {
+        "id": "Ryze",
+        "name": "Ryze",
+        "tags": [
+            "Mage",
+            "Fighter"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Samira": {
+        "id": "Samira",
+        "name": "Samira",
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Sejuani": {
+        "id": "Sejuani",
+        "name": "Sejuani",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Senna": {
+        "id": "Senna",
+        "name": "Senna",
+        "tags": [
+            "Marksman",
+            "Support"
+        ],
+        "rol": [
+            "sup",
+            "adc"
+        ]
+    },
+    "Seraphine": {
+        "id": "Seraphine",
+        "name": "Seraphine",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Sett": {
+        "id": "Sett",
+        "name": "Sett",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Shaco": {
+        "id": "Shaco",
+        "name": "Shaco",
+        "tags": [
+            "Assassin"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Shen": {
+        "id": "Shen",
+        "name": "Shen",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Shyvana": {
+        "id": "Shyvana",
+        "name": "Shyvana",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top",
+            "jungla"
+        ]
+    },
+    "Singed": {
+        "id": "Singed",
+        "name": "Singed",
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Sion": {
+        "id": "Sion",
+        "name": "Sion",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Sivir": {
+        "id": "Sivir",
+        "name": "Sivir",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Skarner": {
+        "id": "Skarner",
+        "name": "Skarner",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Smolder": {
+        "id": "Smolder",
+        "name": "Smolder",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Sona": {
+        "id": "Sona",
+        "name": "Sona",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Soraka": {
+        "id": "Soraka",
+        "name": "Soraka",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Swain": {
+        "id": "Swain",
+        "name": "Swain",
+        "tags": [
+            "Mage",
+            "Fighter"
+        ],
+        "rol": [
+            "mid",
+            "top"
+        ]
+    },
+    "Sylas": {
+        "id": "Sylas",
+        "name": "Sylas",
+        "tags": [
+            "Mage",
+            "Assassin"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Syndra": {
+        "id": "Syndra",
+        "name": "Syndra",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "TahmKench": {
+        "id": "TahmKench",
+        "name": "Tahm Kench",
+        "tags": [
+            "Support",
+            "Tank"
+        ],
+        "rol": [
+            "sup",
+            "top"
+        ]
+    },
+    "Taliyah": {
+        "id": "Taliyah",
+        "name": "Taliyah",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Talon": {
+        "id": "Talon",
+        "name": "Talon",
+        "tags": [
+            "Assassin"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Taric": {
+        "id": "Taric",
+        "name": "Taric",
+        "tags": [
+            "Support",
+            "Fighter"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Teemo": {
+        "id": "Teemo",
+        "name": "Teemo",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Thresh": {
+        "id": "Thresh",
+        "name": "Thresh",
+        "tags": [
+            "Support",
+            "Fighter"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Tristana": {
+        "id": "Tristana",
+        "name": "Tristana",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Trundle": {
+        "id": "Trundle",
+        "name": "Trundle",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "jungla",
+            "top"
+        ]
+    },
+    "Tryndamere": {
+        "id": "Tryndamere",
+        "name": "Tryndamere",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "jungla",
+            "top"
+        ]
+    },
+    "TwistedFate": {
+        "id": "TwistedFate",
+        "name": "Twisted Fate",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid",
+            "adc"
+        ]
+    },
+    "Twitch": {
+        "id": "Twitch",
+        "name": "Twitch",
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "rol": [
+            "adc",
+            "jungla"
+        ]
+    },
+    "Udyr": {
+        "id": "Udyr",
+        "name": "Udyr",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Urgot": {
+        "id": "Urgot",
+        "name": "Urgot",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Varus": {
+        "id": "Varus",
+        "name": "Varus",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Vayne": {
+        "id": "Vayne",
+        "name": "Vayne",
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Veigar": {
+        "id": "Veigar",
+        "name": "Veigar",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Velkoz": {
+        "id": "Velkoz",
+        "name": "Vel'Koz",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Vex": {
+        "id": "Vex",
+        "name": "Vex",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Vi": {
+        "id": "Vi",
+        "name": "Vi",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Viego": {
+        "id": "Viego",
+        "name": "Viego",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Viktor": {
+        "id": "Viktor",
+        "name": "Viktor",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Vladimir": {
+        "id": "Vladimir",
+        "name": "Vladimir",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid",
+            "top"
+        ]
+    },
+    "Volibear": {
+        "id": "Volibear",
+        "name": "Volibear",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top",
+            "jungla"
+        ]
+    },
+    "Warwick": {
+        "id": "Warwick",
+        "name": "Warwick",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Xayah": {
+        "id": "Xayah",
+        "name": "Xayah",
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Xerath": {
+        "id": "Xerath",
+        "name": "Xerath",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "XinZhao": {
+        "id": "XinZhao",
+        "name": "Xin Zhao",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Yasuo": {
+        "id": "Yasuo",
+        "name": "Yasuo",
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "rol": [
+            "mid",
+            "top"
+        ]
+    },
+    "Yone": {
+        "id": "Yone",
+        "name": "Yone",
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "rol": [
+            "top",
+            "mid"
+        ]
+    },
+    "Yorick": {
+        "id": "Yorick",
+        "name": "Yorick",
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "rol": [
+            "top"
+        ]
+    },
+    "Yuumi": {
+        "id": "Yuumi",
+        "name": "Yuumi",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Zac": {
+        "id": "Zac",
+        "name": "Zac",
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "rol": [
+            "jungla"
+        ]
+    },
+    "Zed": {
+        "id": "Zed",
+        "name": "Zed",
+        "tags": [
+            "Assassin"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Zeri": {
+        "id": "Zeri",
+        "name": "Zeri",
+        "tags": [
+            "Marksman"
+        ],
+        "rol": [
+            "adc"
+        ]
+    },
+    "Ziggs": {
+        "id": "Ziggs",
+        "name": "Ziggs",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Zilean": {
+        "id": "Zilean",
+        "name": "Zilean",
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "rol": [
+            "sup"
+        ]
+    },
+    "Zoe": {
+        "id": "Zoe",
+        "name": "Zoe",
+        "tags": [
+            "Mage"
+        ],
+        "rol": [
+            "mid"
+        ]
+    },
+    "Zyra": {
+        "id": "Zyra",
+        "name": "Zyra",
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "rol": [
+            "sup"
+        ]
     }
 }

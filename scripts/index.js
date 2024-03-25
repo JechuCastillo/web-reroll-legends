@@ -4,7 +4,7 @@ const xhr = new XMLHttpRequest();
 
 function onRequestHandler() {
   if (this.readyState === 4 && this.status === 200) {
-    const champion = JSON.parse(this.response).data;
+    const champion = JSON.parse(this.response);
     const arrayChampion = (Object.values(champion));
     cantCampeones = arrayChampion.length;
     console.log(arrayChampion);
@@ -27,13 +27,7 @@ const contenedor = document.querySelector('.contenedor');
 xhr.addEventListener("load", onRequestHandler);
 xhr.open("GET", `${url}`);
 xhr.send();
-// function mostrar(championArray) {
-//   const boton = document.querySelector('.botonRoll');
-//   boton.addEventListener('click', reroll(championArray));
-// }
-// function reroll(championArray) {
-//   const parrafo = document.querySelector('P');
-//   parrafo.textContent = championArray[Math.floor(Math.random() * 167)];
+
 
 function filtrarSoporte(arrayChampion) {
   let soportes = [];
