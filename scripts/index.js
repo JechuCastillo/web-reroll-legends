@@ -1,4 +1,4 @@
-const url = 'https://ddragon.leagueoflegends.com/cdn/14.6.1/data/en_US/champion.json';
+const url = 'scripts/champion.json';
 
 const xhr = new XMLHttpRequest();
 
@@ -6,10 +6,10 @@ function onRequestHandler() {
   if (this.readyState === 4 && this.status === 200) {
     const champion = JSON.parse(this.response).data;
     const arrayChampion = (Object.values(champion));
-    //console.log(arrayChampion);
-    for (i = 0; i < arrayChampion.length; i++) {
+    cantCampeones = arrayChampion.length;
+    console.log(arrayChampion);
+    for (i = 0; i < cantCampeones; i++) {
       let nombre = arrayChampion[i].id;
-      //console.log(nombre);
       const imagen = document.createElement('img');
       imagen.src = 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/'.concat(nombre).concat('_0.jpg');
       imagen.classList.add('contenedor');
@@ -18,6 +18,8 @@ function onRequestHandler() {
     filtrarSoporte(arrayChampion);
     filtrarTops(arrayChampion);
     filtrarJunglas(arrayChampion);
+    filtrarAdcs(arrayChampion);
+    filtrarMids(arrayChampion);
     // cambio
   }
 }
@@ -37,7 +39,7 @@ function filtrarSoporte(arrayChampion) {
   let soportes = [];
   longitud = arrayChampion.length;
   for (i = 0; i < longitud; i++) {
-    if (arrayChampion[i].tags.includes("Support")) {
+    if (arrayChampion[i].rol.includes("sup")) {
       soportes.push(arrayChampion[i]);
     }
   }
@@ -48,7 +50,7 @@ function filtrarTops(arrayChampion) {
   let toplaners = [];
   longitud = arrayChampion.length;
   for (i = 0; i < longitud; i++) {
-    if (arrayChampion[i].tags.includes("Fighter") && arrayChampion[i].tags.includes("Tank")) {
+    if (arrayChampion[i].rol.includes("top")) {
       toplaners.push(arrayChampion[i]);
     }
   }
@@ -59,10 +61,32 @@ function filtrarJunglas(arrayChampion) {
   let junglas = [];
   longitud = arrayChampion.length;
   for (i = 0; i < longitud; i++) {
-    if (arrayChampion[i].tags.includes("Fighter") && arrayChampion[i].tags.includes("Assassin")) {
+    if (arrayChampion[i].rol.includes("jungla")) {
       junglas.push(arrayChampion[i]);
     }
   }
   console.log(junglas);
+}
+
+function filtrarMids(arrayChampion) {
+  let mids = [];
+  longitud = arrayChampion.length;
+  for (i = 0; i < longitud; i++) {
+    if (arrayChampion[i].rol.includes("mid")) {
+      mids.push(arrayChampion[i]);
+    }
+  }
+  console.log(mids);
+}
+
+function filtrarAdcs(arrayChampion) {
+  let adcs = [];
+  longitud = arrayChampion.length;
+  for (i = 0; i < longitud; i++) {
+    if (arrayChampion[i].rol.includes("adc")) {
+      adcs.push(arrayChampion[i]);
+    }
+  }
+  console.log(adcs);
 }
 // }
