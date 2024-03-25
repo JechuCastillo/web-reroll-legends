@@ -32,6 +32,18 @@
                 "top"
             ]
         },
+        "Akshan": {
+            "id": "Akshan",
+            "name": "Akshan",
+            "tags": [
+                "Marksman",
+                "Assassin"
+            ],
+            "rol": [
+                "mid",
+                "top"
+            ]
+        },
         "Alistar": {
             "id": "Alistar",
             "name": "Alistar",
@@ -130,6 +142,16 @@
                 "sup"
             ]
         },
+        "Belveth": {
+            "id": "Belveth",
+            "name": "Bel'Veth",
+            "tags": [
+                "Fighter"
+            ],
+            "rol": [
+                "jungla"
+            ]
+        },
         "Blitzcrank": {
             "id": "Blitzcrank",
             "name": "Blitzcrank",
@@ -161,6 +183,17 @@
             ],
             "rol": [
                 "sup"
+            ]
+        },
+        "Briar": {
+            "id": "Briar",
+            "name": "Briar",
+            "tags": [
+                "Fighter",
+                "Assassin"
+            ],
+            "rol": [
+                "jungla"
             ]
         },
         "Caitlyn": {
@@ -398,6 +431,17 @@
             ],
             "rol": [
                 "jungla"
+            ]
+        },
+        "Gwen": {
+            "id": "Gwen",
+            "name": "Gwen",
+            "tags": [
+                "Fighter",
+                "Assassin"
+            ],
+            "rol": [
+                "top"
             ]
         },
         "Hecarim": {
@@ -671,6 +715,17 @@
                 "adc"
             ]
         },
+        "KSante": {
+            "id": "KSante",
+            "name": "K'Sante",
+            "tags": [
+                "Tank",
+                "Fighter"
+            ],
+            "rol": [
+                "top"
+            ]
+        },
         "Leblanc": {
             "id": "Leblanc",
             "name": "LeBlanc",
@@ -807,6 +862,16 @@
                 "jungla"
             ]
         },
+        "Milio": {
+            "id": "Milio",
+            "name": "Milio",
+            "tags": [
+                "Support"
+            ],
+            "rol": [
+                "sup"
+            ]
+        },
         "MissFortune": {
             "id": "MissFortune",
             "name": "Miss Fortune",
@@ -849,6 +914,16 @@
             ],
             "rol": [
                 "sup"
+            ]
+        },
+        "Naafiri": {
+            "id": "Naafiri",
+            "name": "Naafiri",
+            "tags": [
+                "Assassin"
+            ],
+            "rol": [
+                "mid"
             ]
         },
         "Nami": {
@@ -1076,7 +1151,7 @@
             ]
         },
         "RenataGlasc": {
-            "id": "RenataGlasc",
+            "id": "Renata",
             "name": "Renata Glasc",
             "tags": [
                 "Support",
@@ -1525,6 +1600,16 @@
                 "mid"
             ]
         },
+        "Vex": {
+            "id": "Vex",
+            "name": "Vex",
+            "tags": [
+                "Mage"
+            ],
+            "rol": [
+                "mid"
+            ]
+        },
         "Vi": {
             "id": "Vi",
             "name": "Vi",
@@ -1688,6 +1773,16 @@
             ],
             "rol": [
                 "mid"
+            ]
+        },
+        "Zeri": {
+            "id": "Zeri",
+            "name": "Zeri",
+            "tags": [
+                "Marksman"
+            ],
+            "rol": [
+                "adc"
             ]
         },
         "Ziggs": {
