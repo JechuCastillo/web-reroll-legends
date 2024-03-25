@@ -2,6 +2,28 @@
 
 Tareas:
 
--Interfaz: HTML y CSS
+-Vista: HTML y CSS
 
--Controlador
+# Barra de navegacion con 2 opciones, Inicio y Sobre Nosotros:
+
+Centrada
+Clara
+Sin fondo
+
+- Body:
+Posee la maquina estilo traga monedas
+Centrada
+Posee un boton para hacer el RERROLL
+
+Cosas a tener en cuenta:
+* TIENE QUE SER RESPONSIVE, TANTO LA NAVEGACION COMO LA MAQUINA
+
+# Controlador: JavaScript
+- Obtener campeones.
+- Dividir por rol.
+- Seleccionar un campeon random entre los roles para cada linea.
+- Mostrarlos por pantalla
+
+Cosas a tener en cuenta:
+* Que no se repitan los campeones con mas de un rol.
+* Que sea eficaz y en lo posible eficiente.

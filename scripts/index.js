@@ -9,6 +9,8 @@ function onRequestHandler() {
     console.log(arrayChampion);
 
     mostrarCampeones(arrayChampion);
+
+    //Filtrado
     filtrarSoporte(arrayChampion);
     filtrarTops(arrayChampion);
     filtrarJunglas(arrayChampion);
@@ -87,6 +89,7 @@ function mostrarCampeones(arrayChampion) {
     imagen.classList.add('contenedor');
     contenedor.appendChild(imagen);
   }
-
 }
+
+function generarComposicionNormal() { }
 // }
