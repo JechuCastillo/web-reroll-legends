@@ -1,6 +1,6 @@
 //Variables globales
 //Guarda un array de campeones por linea
-var campeonesPorLinea = [];
+var campeonesPorLinea = [[], [], [], [], []];
 
 //Va guardando la composicion random
 var composicion = [];
@@ -16,12 +16,7 @@ function onRequestHandler() {
     const arrayChampion = (Object.values(champion));
 
     //Filtrado de todos los campeones segun su linea
-    filtrarTops(arrayChampion);
-    filtrarJunglas(arrayChampion);
-    filtrarMids(arrayChampion);
-    filtrarAdcs(arrayChampion);
-    filtrarSoporte(arrayChampion);
-
+    filtrarCampeonesPorLinea(arrayChampion);
   }
 }
 //Una vez que carga el JS se ejecuta la funcion onRequestHandler
@@ -29,68 +24,28 @@ xhr.addEventListener("load", onRequestHandler);
 xhr.open("GET", `${url}`);
 xhr.send();
 
-
-function filtrarTops(arrayChampion) {
-  // Crea un array de toplaners que se guarda en otro array de campeones
-  let toplaners = [];
-  let longitud = arrayChampion.length;
-  for (i = 0; i < longitud; i++) {
+function filtrarCampeonesPorLinea(arrayChampion) {
+  let cantidadCampeones = arrayChampion.length;
+  for (i = 0; i < cantidadCampeones; i++) {
     if (arrayChampion[i].rol.includes("top")) {
-      toplaners.push(arrayChampion[i]);
+      campeonesPorLinea[0].push(arrayChampion[i])
     }
-  }
-  campeonesPorLinea.push(toplaners);
-}
-
-function filtrarJunglas(arrayChampion) {
-  // Crea un array de junglas que se guarda en otro array de campeones
-  let junglas = [];
-  let longitud = arrayChampion.length;
-  for (i = 0; i < longitud; i++) {
     if (arrayChampion[i].rol.includes("jungla")) {
-      junglas.push(arrayChampion[i]);
+      campeonesPorLinea[1].push(arrayChampion[i]);
     }
-  }
-  campeonesPorLinea.push(junglas);
-}
-
-function filtrarMids(arrayChampion) {
-  // Crea un array de mids que se guarda en otro array de campeones
-
-  let mids = [];
-  let longitud = arrayChampion.length;
-  for (i = 0; i < longitud; i++) {
     if (arrayChampion[i].rol.includes("mid")) {
-      mids.push(arrayChampion[i]);
+      campeonesPorLinea[2].push(arrayChampion[i]);
     }
-  }
-  campeonesPorLinea.push(mids);
-}
-
-function filtrarAdcs(arrayChampion) {
-  // Crea un array de adcs que se guarda en otro array de campeones
-
-  let adcs = [];
-  let longitud = arrayChampion.length;
-  for (i = 0; i < longitud; i++) {
     if (arrayChampion[i].rol.includes("adc")) {
-      adcs.push(arrayChampion[i]);
+      campeonesPorLinea[3].push(arrayChampion[i]);
     }
+    if (arrayChampion[i].rol.includes("sup")) {
+      campeonesPorLinea[4].push(arrayChampion[i]);
+    }
+
   }
-  campeonesPorLinea.push(adcs);
 }
 
-function filtrarSoporte(arrayChampion) {
-  // Crea un array de soportes que se guarda en otro array de campeones
-  let soportes = [];
-  longitud = arrayChampion.length;
-  for (i = 0; i < longitud; i++) {
-    if (arrayChampion[i].rol.includes("sup")) {
-      soportes.push(arrayChampion[i]);
-    }
-  }
-  campeonesPorLinea.push(soportes);
-}
 
 function generarComposicion() {
   //Esta funcion se encarga de generar la composicion random
@@ -131,6 +86,7 @@ function obtenerCampeon(campeones) {
 
 /* INTERACCION CON EL BOTON DE REROLL */
 const rerollBtn = document.getElementById('botonReRoll');
+//Cuando se presiona el boton se genera la composicion aleatoria
 rerollBtn.addEventListener('click', generarComposicion);
 
 function mostrarComposicion() {
