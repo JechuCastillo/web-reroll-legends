@@ -1,5 +1,62 @@
-.contenedor{
-    width: 400px;
-    height: 400px;
-    border: 1px solid black;
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.navegacion {
+    background-color: transparent;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+
+
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.link {}
+
+.caja-rol {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    text-align: center;
+}
+
+.botonReroll {
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    margin-top: 2em;
+    padding: .3em;
+    width: 5em;
+}
+
+.imagen {
+    border: solid black;
+    width: 10em;
+    height: 10em;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
 }
