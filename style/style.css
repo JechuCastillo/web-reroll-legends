@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #0C1018;
-    background-image: url(/imagenes/fondo-lol.jpg);
+    background-image: url(../imagenes/fondo-lol.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
