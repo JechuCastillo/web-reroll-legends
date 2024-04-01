@@ -85,10 +85,10 @@ function obtenerCampeon(campeones) {
 /*------------------------------------------------------------------------------------------*/
 
 /* INTERACCION CON EL BOTON DE REROLL */
-const rerollBtn = document.getElementById('botonReRoll');
+const rerollBtn = document.querySelector('.botonReroll');
 //Cuando se presiona el boton se genera la composicion aleatoria
 rerollBtn.addEventListener('click', generarComposicion);
-
+console.log(rerollBtn);
 function mostrarComposicion() {
   //Muestra los campeones en el html
   const displayUno = document.querySelector('.top');

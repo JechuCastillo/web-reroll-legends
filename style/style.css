@@ -1,14 +1,22 @@
 * {
     margin: 0;
     padding: 0;
-
 }
 
-body {}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0C1018;
+    background-image: url(/imagenes/fondo-lol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 a {
     text-decoration: none;
-    color: black;
+    color: #DBC171;
+    text-shadow: gray 0px -5px 2px;
+    text-transform: uppercase;
 }
 
 .navegacion {
@@ -21,42 +29,73 @@ a {
 
     font-family: "Roboto Condensed", sans-serif;
     font-weight: 900;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 
-.link {}
 
 .caja-rol {
-    margin-top: 3rem;
+    margin-top: 10rem;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 main {
     text-align: center;
 }
 
+
 .botonReroll {
     font-family: "Roboto Condensed", sans-serif;
-    font-weight: 900;
+    font-weight: bold;
     font-size: 2rem;
-    margin-top: 2em;
-    padding: .3em;
-    width: 5em;
+    padding: 0rem;
+    text-transform: uppercase;
+
+    background-color: #1E2328;
+    color: white;
+    border-color: #0C4854;
+    border-style: solid;
+    border-width: 5px;
+    padding: 1rem;
+}
+
+.boton {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0696AA;
+    width: fit-content;
+    padding: 0;
+    margin: 5rem auto;
+    box-shadow: #263d3d 0px -3px 4px 3px;
+}
+
+.botonReroll:hover {
+    cursor: pointer;
+
+}
+
+.boton:hover {
+    cursor: pointer;
+    border: #27DFFD 5px solid;
+    box-shadow: #27DFFD 3px 0px 3px 0px;
 }
 
 .imagen {
-    border: solid black;
-    width: 10em;
-    height: 10em;
+    border: solid #A47732;
+    max-height: 10rem;
 }
 
 footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    background-color: #333;
+    background-color: transparent;
     color: #fff;
     text-align: center;
-    padding: 1em;
+}
+
+footer p {
+    padding: 1rem;
+    font-size: 2rem;
 }
