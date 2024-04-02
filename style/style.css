@@ -27,7 +27,7 @@ a {
     gap: 10rem;
 
 
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Beufor", sans-serif;
     font-weight: 900;
     font-size: 2.5rem;
 }
@@ -46,7 +46,7 @@ main {
 
 
 .botonReroll {
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Beufor", sans-serif;
     font-weight: bold;
     font-size: 2rem;
     padding: 0rem;
@@ -82,9 +82,33 @@ main {
     box-shadow: #27DFFD 3px 0px 3px 0px;
 }
 
+.rol {
+    position: absolute;
+    height: 75px;
+    border-radius: 100px;
+    border: solid #A47732;
+    margin-top: 8rem;
+}
+
+.casillaNombre {
+    border: solid #A47732;
+    background-color: black;
+    color: #A47732;
+    font-size: 20px;
+    font-family: Spiegel;
+}
+
 .imagen {
     border: solid #A47732;
     max-height: 10rem;
+    margin: 0;
+    margin-bottom: -7px;
+}
+
+.linea {
+    max-width: 3rem;
+    margin: 0;
+    padding: 0;
 }
 
 footer {
@@ -95,10 +119,22 @@ footer {
     text-align: center;
     margin-top: 12rem;
 }
-main{
+
+main {
     min-height: 100%;
 }
+
 footer p {
     padding: 1rem;
     font-size: 2rem;
+}
+
+@font-face {
+    font-family: Spiegel;
+    src: url(../fonts/Spiegel-Bold.otf) format(truetype);
+}
+
+@font-face {
+    font-family: Beufor;
+    src: url(../fonts/BeaufortforLOL-Bold.otf) format(truetype);
 }

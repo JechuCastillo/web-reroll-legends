@@ -923,8 +923,7 @@
         ],
         "rol": [
             "jungla",
-            "top",
-            "mid"
+            "top"
         ],
         "alineacion": "derecha"
     },
@@ -1177,7 +1176,7 @@
             "Assassin"
         ],
         "rol": [
-            "top"
+            "sup"
         ],
         "alineacion": "centro"
     },
