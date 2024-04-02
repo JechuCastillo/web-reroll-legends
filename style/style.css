@@ -83,15 +83,25 @@ main {
 }
 
 .rol{
-    position: fixed;
+    position: absolute;
     height: 75px;
     border-radius: 100px;
     border: solid #A47732;
+    margin-top: 8rem;
 }
+
+.casillaNombre{
+    border: solid #A47732;
+    background-color: black;
+    color: #A47732;
+    font-size: 20px;
+}
+
 .imagen {
     border: solid #A47732;
     max-height: 10rem;
     margin: 0;
+    margin-bottom: -10px;
 }
 .linea{
     max-width: 3rem;

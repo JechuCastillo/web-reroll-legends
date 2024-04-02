@@ -96,10 +96,12 @@ function mostrarComposicion() {
   const displayTres = document.querySelector('.mid');
   const displayCuatro = document.querySelector('.adc');
   const displayCinco = document.querySelector('.sup');
+  const casillaNombre = document.querySelectorAll('.casillaNombre');
   let imagen = [displayUno, displayDos, displayTres, displayCuatro, displayCinco];
   for (i = 0; i < 5; i++) {
     //Cambia la ruta de imagen para mostrar el campeon correspondiente
     imagen[i].src = 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/'.concat(composicion[i].id).concat('_0.jpg');
+    casillaNombre[i].textContent = composicion[i].name;
   }
 }
 
