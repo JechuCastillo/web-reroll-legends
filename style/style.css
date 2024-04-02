@@ -82,6 +82,12 @@ main {
     box-shadow: #27DFFD 3px 0px 3px 0px;
 }
 
+.rol{
+    position: fixed;
+    height: 75px;
+    border-radius: 100px;
+    border: solid #A47732;
+}
 .imagen {
     border: solid #A47732;
     max-height: 10rem;
