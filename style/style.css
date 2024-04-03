@@ -21,10 +21,11 @@ a {
 
 .navegacion {
     background-color: transparent;
-    padding: 2rem;
+    padding: 0rem;
     display: flex;
     justify-content: center;
     gap: 10rem;
+    margin-top: 1rem;
 
     font-family: "Beufor", sans-serif;
     font-weight: 900;
@@ -169,6 +170,47 @@ footer p {
 }
 
 @media Screen and (max-width:992px) {
+    .navegacion a {
+        display: block;
+    }
+
+    .navegacion {
+        display: block;
+        gap: 0;
+        text-align: center;
+    }
+    .caja-rol {
+        max-width: 100%;
+        display: block;
+        margin-top: 5rem;
+    }
+
+    .display {
+        max-width: fit-content;
+        margin: 0 auto;
+    }
+
+
+    .imagen {
+        max-width: 100%;
+    }
+
+    .rol {
+        max-width: 25%;
+        margin: 0;
+    }
+}
+
+@media Screen and (max-width:576px) {
+    .navegacion a {
+        display: block;
+    }
+
+    .navegacion {
+        display: block;
+        gap: 0;
+        text-align: center;
+    }
 
     .caja-rol {
         max-width: 100%;
@@ -190,8 +232,4 @@ footer p {
         max-width: 25%;
         margin: 0;
     }
-
-
-
-
 }
