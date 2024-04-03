@@ -26,7 +26,6 @@ a {
     justify-content: center;
     gap: 10rem;
 
-
     font-family: "Beufor", sans-serif;
     font-weight: 900;
     font-size: 2.5rem;
@@ -84,8 +83,8 @@ main {
 
 .rol {
     position: absolute;
-    height: 75px;
-    border-radius: 100px;
+    height: 4rem;
+    border-radius: 10rem;
     border: solid #A47732;
     margin-top: 8rem;
 }
@@ -94,7 +93,7 @@ main {
     border: solid #A47732;
     background-color: black;
     color: #A47732;
-    font-size: 20px;
+    font-size: 1.2rem;
     font-family: Spiegel;
 }
 
@@ -105,11 +104,7 @@ main {
     margin-bottom: -7px;
 }
 
-.linea {
-    max-width: 3rem;
-    margin: 0;
-    padding: 0;
-}
+
 
 footer {
     bottom: 0;
@@ -137,4 +132,66 @@ footer p {
 @font-face {
     font-family: Beufor;
     src: url(../fonts/BeaufortforLOL-Bold.otf) format(truetype);
+}
+
+/*Medias */
+@media Screen and (max-width:1400px) {
+    .caja-rol {
+        max-width: 100%;
+    }
+
+    .imagen {
+        max-width: 15rem;
+    }
+
+    .rol {
+        height: 3.3rem;
+        margin-top: 7rem;
+    }
+
+    .display {
+        max-width: 100%;
+    }
+}
+
+@media Screen and (max-width:1200px) {
+    .caja-rol {}
+
+    .imagen {
+        max-width: 12rem;
+    }
+
+    .rol {
+        height: 2.5rem;
+        margin-top: 6rem;
+    }
+
+}
+
+@media Screen and (max-width:992px) {
+
+    .caja-rol {
+        max-width: 100%;
+        display: block;
+        margin-top: 5rem;
+    }
+
+    .display {
+        max-width: fit-content;
+        margin: 0 auto;
+    }
+
+
+    .imagen {
+        max-width: 100%;
+    }
+
+    .rol {
+        max-width: 25%;
+        margin: 0;
+    }
+
+
+
+
 }
