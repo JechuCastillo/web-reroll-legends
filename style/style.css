@@ -179,6 +179,7 @@ footer p {
         gap: 0;
         text-align: center;
     }
+
     .caja-rol {
         max-width: 100%;
         display: block;
@@ -198,6 +199,49 @@ footer p {
     .rol {
         max-width: 25%;
         margin: 0;
+    }
+}
+
+@media Screen and (max-width:768px) {
+    .navegacion a {
+        display: block;
+    }
+
+    .navegacion {
+        display: block;
+        gap: 0;
+        text-align: center;
+    }
+
+    .caja-rol {
+        display: block;
+        margin-top: 1rem;
+        max-width: 100%;
+    }
+
+    .display {
+        max-width: fit-content;
+        margin: 0 auto;
+
+    }
+
+    .display p {
+        max-width: 70%;
+        margin: 0 auto;
+
+    }
+
+    .imagen {
+        max-width: 70%;
+    }
+
+    .rol {
+        max-width: 25%;
+        margin: 0;
+    }
+
+    .boton {
+        margin-top: 2rem;
     }
 }
 
@@ -223,10 +267,11 @@ footer p {
         margin: 0 auto;
 
     }
-    .display p{
+
+    .display p {
         max-width: 70%;
         margin: 0 auto;
-        
+
     }
 
     .imagen {
@@ -237,7 +282,8 @@ footer p {
         max-width: 25%;
         margin: 0;
     }
-    .boton{
+
+    .boton {
         margin-top: 2rem;
     }
 }
