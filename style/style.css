@@ -213,23 +213,31 @@ footer p {
     }
 
     .caja-rol {
-        max-width: 100%;
         display: block;
-        margin-top: 5rem;
+        margin-top: 1rem;
+        max-width: 100%;
     }
 
     .display {
         max-width: fit-content;
         margin: 0 auto;
+
+    }
+    .display p{
+        max-width: 70%;
+        margin: 0 auto;
+        
     }
 
-
     .imagen {
-        max-width: 100%;
+        max-width: 70%;
     }
 
     .rol {
         max-width: 25%;
         margin: 0;
+    }
+    .boton{
+        margin-top: 2rem;
     }
 }
