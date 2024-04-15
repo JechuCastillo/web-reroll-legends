@@ -1,0 +1,31 @@
+.nosotros {
+    background-color: #1E2328;
+    color: white;
+    border: solid 2px #0696AA;
+    padding: 2rem;
+    font-family: Beufor;
+    color: #DBC171;
+}
+
+.borde {
+    border: solid 2px #27DFFD;
+    width: 50%;
+    margin: 10em auto;
+}
+
+.nosotros-descripcion {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1.3rem;
+    text-align: justify;
+}
+
+.nosotros-titulo {
+    text-transform: uppercase;
+    padding: 0rem;
+    text-align: center;
+}
+@font-face {
+    font-family: Beufor;
+    src: url(../fonts/BeaufortforLOL-Bold.otf) format(truetype);
+}
