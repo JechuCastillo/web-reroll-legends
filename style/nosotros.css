@@ -25,7 +25,11 @@
     padding: 0rem;
     text-align: center;
 }
+
 @font-face {
     font-family: Beufor;
     src: url(../fonts/BeaufortforLOL-Bold.otf) format(truetype);
 }
+
+
+

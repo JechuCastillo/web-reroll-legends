@@ -156,7 +156,6 @@ footer p {
 }
 
 @media Screen and (max-width:1200px) {
-    .caja-rol {}
 
     .imagen {
         max-width: 12rem;
