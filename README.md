@@ -11,5 +11,5 @@
 
 ## Descripción
 
-Re en esa
+Pequeño proyecto realizado por diversion durante investigación sobre APIS
 
